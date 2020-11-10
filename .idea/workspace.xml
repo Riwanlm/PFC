@@ -93,6 +93,11 @@
     <select />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="git@github.com:Riwanlm/PFC.git" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WMHQM0JzVdjqXN6hzrM9ywLvYu" />
@@ -167,10 +172,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Vesion Initiale PFC" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="258" y="23" key="CommitChangelistDialog2" timestamp="1605016912670">
+    <state x="258" y="23" key="CommitChangelistDialog2" timestamp="1605017027674">
       <screen x="0" y="23" width="1440" height="784" />
     </state>
-    <state x="258" y="23" key="CommitChangelistDialog2/0.23.1440.784@0.23.1440.784" timestamp="1605016912670" />
+    <state x="258" y="23" key="CommitChangelistDialog2/0.23.1440.784@0.23.1440.784" timestamp="1605017027674" />
+    <state x="320" y="155" key="Vcs.Push.Dialog.v2" timestamp="1605016951827">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.784@0.23.1440.784" timestamp="1605016951827" />
     <state x="413" y="247" key="com.intellij.ide.util.TipDialog" timestamp="1605016687604">
       <screen x="0" y="23" width="1440" height="784" />
     </state>
